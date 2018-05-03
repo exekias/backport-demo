@@ -1,0 +1,5 @@
+{
+  "upstream": "sqren/backport-demo",
+  "branches": ["6.3", "6.2", "6.1", "6.0"],
+  "labels": ["backport"]
+}
